@@ -1,0 +1,1586 @@
+ /* @media (max-width:1200px) {
+
+    .main-heading h1,
+    .main-heading h1 span {
+        font-size: 38px;
+
+    }
+
+    .followers h1,
+    .post-rate h1 {
+        margin-top: 12px;
+        font-size: 32px;
+
+        line-height: 26px;
+
+    }
+
+    .audience span.main {
+        font-size: 17px;
+    }
+
+
+    .email-bar,
+    .join-btn {
+
+        height: 30px;
+    }
+
+    .main-heading h1 {
+        line-height: 0px;
+        margin-bottom: 30px;
+    }
+
+    .first-sec {
+        padding-top: 0px;
+    }
+
+    .logo h1 {
+        font-size: 44px;
+    }
+
+
+    .main-heading p {
+        margin-top: 50px;
+        font-size: 13px;
+    }
+
+
+    .header-items ul li a {
+
+        font-size: 15px;
+
+    }
+
+
+    .dummy-img {
+        width: 78%;
+        margin: 70px auto 0px;
+    }
+
+
+    .second-sec {
+        padding-bottom: 100px;
+        padding-top: 10px;
+    }
+
+
+    .lorem-headings h1 {
+        line-height: 45px;
+        font-size: 30px;
+
+
+    }
+
+    .blogs ul li h1 {
+        font-size: 30px
+    }
+
+    .blogs ul li p {
+        font-size: 11px;
+        line-height: 20px;
+
+    }
+
+    .blogs ul li h3 {
+        font-size: 13px;
+    }
+
+    .blogs ul {
+        gap: 0px;
+
+    }
+
+    .colab-img-info {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .blogs {
+        padding-bottom: 35px;
+    }
+
+
+    .circle {
+        position: absolute;
+        top: -108px;
+        right: 45px;
+        width: 23%;
+        height: 200px;
+
+    }
+
+    .circle img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .about-me h1 {
+        font-size: 30px;
+    }
+
+    .about-me p,
+    .about-me h3 {
+        font-size: 12px
+    }
+
+    .third-sec {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    .colab-img-info p {
+
+        font-size: 12px;
+
+    }
+
+    .contact-btn {
+        margin-top: 11px;
+        width: 107px;
+        height: 27px;
+        font-size: 13px;
+    }
+
+    .about-me-img {
+        width: 79%;
+        height: 86%;
+    }
+
+    .stats-heading h1 {
+        font-size: 37px;
+
+    }
+
+    .stats-heading p {
+        z-index: 1;
+        font-size: 12px;
+
+    }
+
+
+    .circle-st {
+        height: 69%;
+        top: -62px;
+        left: 35px;
+        width: 20%;
+
+    }
+
+    .audience h1 {
+
+        font-size: 17px;
+
+    }
+
+
+
+    .insights {
+        height: 261px
+    }
+
+    .colab-img {
+        height: 178px;
+    }
+
+    .colab-img img {
+        object-position: top;
+    }
+
+    .fifth-sec {
+        padding-bottom: 100px;
+    }
+
+    .tiktok-aud-info h1 {
+        font-size: 34px;
+
+    }
+
+    .tiktok-aud-info h3 {
+        color: #FF004F;
+        font-family: Poppins;
+        font-size: 15px;
+    }
+
+
+    .tiktok-aud-info p {
+        font-size: 12px;
+    }
+
+    .watch-video h2 {
+
+        font-size: 16px;
+    }
+
+    .watch-video ul {
+        margin-top: 0px;
+    }
+
+    .tiktok-img {
+        height: 415px;
+    }
+
+    .sixth-sec {
+        padding-bottom: 72px;
+    }
+
+    .business h1 {
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+
+    .podcast {
+        margin-top: 34px;
+    }
+
+    .podcast-img {
+        height: 100%;
+    }
+
+    .podcast-img img {
+        object-position: top;
+    }
+
+    .podcast {
+        height: 350px;
+        margin: 0px;
+    }
+
+    .podcast-img.second {
+        height: 350px;
+    }
+
+    .podcast-info p {
+        font-size: 11px;
+
+        line-height: 20px;
+
+    }
+
+    .seventh-sec {
+        padding-bottom: 100px;
+    }
+
+
+    .latest h1 {
+
+        font-size: 34px;
+
+    }
+
+    .latest-img {
+        width: 100%;
+    }
+
+    .footer-items-right h1 {
+
+        font-size: 32px;
+
+    }
+
+    .footer-items-right p {
+
+        font-size: 15px;
+
+        line-height: 21px;
+
+    }
+
+    .contact {
+        width: 113px;
+        height: 37px;
+
+
+    }
+
+    .email {
+        font-size: 15px;
+    }
+
+    form {
+        gap: 27px;
+        width: 348px;
+        height: 391px;
+
+    }
+
+
+    input[type="text"],
+    .email-input {
+        width: 318px;
+        height: 46px;
+
+    }
+
+    .join-us {
+
+        width: 204px;
+        height: 41px;
+
+    }
+
+    .last-slider p {
+        font-size: 12px;
+
+    }
+
+    .audience p.main {
+        font-size: 10px;
+        margin: 0px;
+
+    }
+
+    .audience span {
+        font-size: 12px;
+
+    }
+
+    .post-rate p,
+    .followers p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .src-div {
+        height: 227px;
+        width: 209px;
+    }
+
+    .audience p {
+        margin: 11px 0px;
+    }
+
+    .latest-info p {
+
+        font-size: 11px;
+
+    }
+
+    .latest-info-div {
+        width: 331px;
+
+    }
+
+    .latest-info h1 {
+        font-size: 14px;
+
+    }
+
+    .latest-images.second {
+        margin-left: 40px;
+    }
+
+    .latest-img {
+        height: 400px;
+
+    }
+
+    .colab-img img {
+        object-position: center;
+    }
+} */
+
+
+
+ /* @media (max-width: 992px) {
+    .header-items ul li a {
+        font-size: 10px;
+    }
+
+    .logo h1 {
+        font-size: 39px;
+    }
+
+    .email-bar,
+    .join-btn button {
+        height: 20px;
+    }
+
+    .main-heading {
+        padding-top: 0px;
+    }
+
+    .main-heading h1,
+    .main-heading h1 span {
+        font-size: 19px;
+        margin: 0px;
+    }
+
+    .main-heading p {
+        margin: 0px;
+        font-size: 11px;
+    }
+
+    .buttons ul {
+        margin-top: 34px;
+
+    }
+
+    .join-btn button {
+        width: 100px;
+        font-size: 11px;
+
+    }
+
+    .email-bar {
+        width: 120%;
+        font-size: 10px;
+
+    }
+
+    .dummy-img {
+        height: 88%;
+        width: 95%;
+        margin: 30px auto 0px;
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .first-sec {
+        padding-bottom: 50px;
+    }
+
+    .lorem-headings {
+
+        padding-bottom: 0px;
+    }
+
+    .lorem-headings h1 {
+        line-height: 26px;
+        font-size: 20px;
+    }
+
+    .circle {
+        width: 25%;
+        height: 180px;
+    }
+
+    .blogs ul {
+        padding: 15px;
+        gap: 5px;
+    }
+
+    .blogs ul li p {
+        font-size: 11px;
+        line-height: 20px;
+        padding: 0px;
+    }
+
+    .blogs {
+        padding-bottom: 13px;
+        padding: 6px;
+        margin-top: 20px;
+    }
+
+    .second-sec {
+        padding-bottom: 50px;
+
+    }
+
+    .third-sec {
+        padding-top: 0px;
+    }
+
+    .about-me-img {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+    .about-me-img img {
+        width: 100%;
+        height: 100%;
+
+    }
+
+    .about-me h1 {
+        font-size: 20px;
+    }
+
+    .row.stats-row {
+        padding-top: 0px;
+
+    }
+
+    .circle-st {
+        height: 65%;
+        top: -106px;
+        left: 63px;
+        width: 27%;
+    }
+
+
+    .fourth-sec {
+        padding-bottom: 50px;
+    }
+
+
+
+    .src-div {
+        height: 181px;
+        width: 100%;
+    }
+
+
+
+
+    .colab-img-info p {
+
+        font-size: 11px;
+        line-height: 20px;
+
+    }
+
+    .colab-img-info h1 {
+        margin-top: 20px;
+    }
+
+    .colab-img-info {
+        margin-left: 0px;
+    }
+
+    .followers h1 {
+        font-size: 23px;
+    }
+
+    .post-rate p,
+    .followers p {
+        font-size: 13px;
+    }
+
+    .audience {
+        padding-top: 47px;
+    }
+
+
+    .audience h1 {
+        font-size: 14px;
+    }
+
+    .audience p {
+        margin: 3px 0px;
+    }
+
+    .audience span.main {
+        font-family: Poppins;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .colab-img {
+        height: 157px;
+    }
+
+    .fifth-sec {
+        padding-bottom: 30px;
+    }
+
+
+    .tiktok-aud-info h1,
+    .business h1 {
+        font-size: 25px;
+    }
+
+    .tiktok-aud-info h3 {
+
+        font-size: 10px;
+    }
+
+    .tiktok-aud-info p {
+        font-size: 9px;
+        line-height: 19px;
+    }
+
+
+
+    .tiktok-img {
+
+        height: 351px;
+    }
+
+    .watch-video svg {
+        height: 31px;
+    }
+
+    .watch-video h2 {
+
+        font-size: 14px;
+    }
+
+    .watch-video ul {
+        align-items: baseline;
+    }
+
+    .sixth-sec {
+        margin-bottom: 40px;
+    }
+
+    .podcast,
+    .podcast-img.second {
+        height: 270px;
+        margin: 0px;
+    }
+
+    .podcast-info h1 {
+        font-size: 16px;
+
+    }
+
+    .read-more-btn {
+        width: 72px;
+        height: 25px;
+        font-size: 11px;
+    }
+
+
+    .podcast-info p {
+        font-size: 9px;
+        line-height: 16px;
+    }
+
+    .latest-info-div {
+        width: 250px;
+    }
+
+    .footer-items-right h1 {
+        font-size: 25px;
+        letter-spacing: 3px;
+    }
+
+    .footer-items-right p {
+        font-size: 12px;
+    }
+
+    form {
+        gap: 27px;
+        width: 82%;
+        height: 354px;
+    }
+
+    input[type="text"],
+    .email-input {
+        width: 93%;
+        height: 44px;
+    }
+
+
+
+
+    .join-us {
+        font-size: 13px;
+        width: 152px;
+        height: 28px;
+    }
+
+
+    .contact {
+        font-size: 15px;
+        width: 100px;
+        height: 25px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width:992px) {
+    .circle-st {
+        height: 143px;
+    }
+
+    .stats-heading h1 {
+        font-size: 37px;
+        z-index: 1;
+        position: relative;
+    }
+
+
+
+    .fourth-sec {
+        padding-bottom: 20px;
+    }
+
+
+    .latest h1 {
+        font-size: 24px;
+
+    }
+
+    .latest-img {
+        height: 297px;
+    }
+
+
+    .latest-images.second {
+        margin: 0px;
+    }
+
+
+    .latest-info {
+        padding: 10px;
+    }
+
+
+    .latest-info h1 {
+        font-size: 10px;
+    }
+
+    .footer-items-right h1 {
+        font-size: 14px;
+        letter-spacing: 3px;
+    }
+
+    .footer-items-right p {
+        font-size: 8px;
+    }
+
+
+    .email {
+        font-size: 10px;
+    }
+
+    form {
+        gap: 20px;
+        width: 75%;
+        height: 272px;
+    }
+
+    input[type="text"],
+    .email-input {
+        width: 83%;
+        height: 36px;
+    }
+
+    input[type="text"]::placeholder,
+    input.email-input::placeholder {
+        font-size: 12px;
+    }
+
+    .join-us {
+        font-size: 11px;
+        width: 128px;
+        height: 24px;
+    }
+
+    .last-slider p {
+        font-size: 8px;
+    }
+
+    footer {
+        background-position: center;
+    }
+
+    .contact {
+        font-size: 10px;
+        width: 70px;
+        height: 20px;
+    }
+
+    .post-rate p,
+    .followers p {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .podcast-info p {
+        font-size: 8px;
+        line-height: 16px;
+    }
+}
+
+@media (max-width:786px) {
+    .header-items .nav-items {
+        display: none;
+    }
+
+    .menu i {
+        display: block;
+        font-family: 900;
+        font-size: 20px;
+    }
+
+
+    .dummy-img {
+        height: 86%;
+        width: 73%;
+
+    }
+
+    .main-heading h1 span {
+        line-height: 0px;
+    }
+
+    .main-heading h1 {
+        margin: 20px 0px 30px 0px;
+    }
+
+
+
+    .lorem-headings h1 {
+        line-height: 17px;
+        font-size: 17px;
+    }
+
+    .lorem-headings h3 {
+        font-size: 13px;
+
+        line-height: 26px;
+    }
+    
+    .circle {
+        width: 26%;
+        height: 110px;
+    }
+    .main-heading p {
+        margin: 0px;
+        font-size: 10px;
+        text-align: justify;
+    
+    }
+    
+    .blogs ul li p {
+        font-size: 9px;
+        line-height: 18px;
+
+    }
+}
+
+
+@media (max-width:576px) {
+    
+    .main-heading h1{
+        line-height: 26px;
+    }
+    .blogs {
+
+        margin: 20px 40px 0px;
+    }
+    
+    .tiktokplus-img li {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .business h1 {
+        font-size: 15px;
+    }
+
+    .podcast-img {
+        height: 100%;
+        width: 100%;
+    }
+    
+    
+    .podcast-info.second {
+        margin-left: 20px;
+    }
+
+
+
+
+    .podcast-info p {
+        text-align: justify;
+        font-size: 7px;
+
+    }
+
+
+    .latest h1 {
+        font-size: 14px;
+    }
+
+
+
+    .latest-images {
+        padding-top: 30px;
+   
+    }
+
+    .latest-info p {
+        font-family: Poppins;
+        font-size: 6px;     
+        line-height: 10px;
+    }
+
+    .latest-info-div{
+        width: 120%;
+    }
+    .latest-info h1{
+        font-size: 7px;
+    }
+
+    .latest-img {
+        height: 247px;
+    }
+    form {
+        height: 212px;
+        gap: 14px;
+    }
+    .join-us {
+        font-size: 9px;
+        width: 100px;
+        height: 18px;
+    }  
+
+    input[type="text"], .email-input {
+        width: 90%;
+        height: 22px;
+    }
+
+    .footer-items-right p {
+        font-size: 6px;
+        line-height: 11px;
+    }
+
+    input[type="text"]::placeholder,
+    input.email-input::placeholder {
+        font-size: 8px;
+    }
+
+
+    .footer-items-right h1 {
+        font-size: 11px;
+        letter-spacing: 2px;
+    }
+
+    .footer-items-right h1 {
+        font-size: 11px;
+        letter-spacing: 2px;
+    }
+
+    .email {
+        font-size: 8px;
+    }
+
+    .last-slider p {
+        font-size: 1.4vw;
+        line-height: 9px;
+        text-align: center;
+    }
+
+
+    .circle {
+
+        top: -58px;
+        right: 22px;
+
+    }
+
+    .circle{
+        height: 20%;
+        width: 160px;
+    }
+    .eighth-sec{
+        padding-bottom: 100px;
+    }
+
+    .about-me-img {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        margin: 47px 0px;
+        justify-content: center;
+    }
+
+
+    .about-me-img img{
+        width: 90%;
+    }
+}
+
+
+
+} */
+
+
+ @media (max-width:992px) {
+     .header-items .nav-items {
+         display: none;
+     }
+     .top-nav{
+        display: block;
+     }
+     .top-nav-items ul li a{
+        font-size: 20px;
+     }
+     .top-nav-footer i{
+        font-size: 22px;
+     }
+
+     .header-items .menu i {
+         display: block;
+         font-size: 40px;
+         font-weight: 900;
+     }
+
+     .main-heading h1 span,
+     .main-heading h1 {
+         font-size: 40px;
+     }
+
+     .main-heading {
+         padding-top: 0px;
+     }
+
+     .logo h1 {
+         font-size: 44px;
+     }
+
+
+     .dummy-img img {
+         width: 70%;
+         height: 100%;
+     }
+
+     .dummy-img {
+         display: flex;
+         justify-content: center;
+
+     }
+
+     .lorem-headings h1 {
+         line-height: 33px;
+         font-size: 30px;
+     }
+
+     .second-sec {
+         padding-top: 0px;
+     }
+
+     .fifth-sec,
+     .fourth-sec {
+         padding-bottom: 0px;
+     }
+
+     .about-me h1 {
+         font-size: 44px;
+     }
+
+     .business h1 {
+         font-size: 36px;
+     }
+
+     .audience {
+         padding-top: 0px
+     }
+
+     .podcast-info.second {
+         margin-left: 0px;
+     }
+
+     .end-btns ul {
+         padding: 0px;
+         display: flex;
+         flex-direction: row;
+         align-items: center;
+         gap: 20px;
+         justify-content: center;
+     }
+
+     .footer-items-right {
+
+         text-align: center;
+     }
+
+     .form-div {
+         display: flex;
+         justify-content: center;
+     }
+
+     .latest-images {
+         width: 100%;
+     }
+
+     .latest-images {
+         width: 100%;
+         display: flex;
+         justify-content: center;
+         padding-top: 50px;
+
+     }
+
+     .latest-info-div {
+         width: 100%;
+         box-sizing: border-box;
+         left: 0px;
+     }
+
+     .latest-img {
+         width: 100%;
+         /* border-radius: 100px 0px 100px 0px */
+     }
+
+     .latest-images.second {
+         margin-left: 0px;
+     }
+
+     .src-div {
+         height: 227px;
+         width: 100%;
+     }
+
+     .latest-info-div {
+         position: absolute;
+         background-color: white;
+         color: var(--secondaryColor);
+         width: 100%;
+         flex-shrink: 0;
+         top: 48%;
+         left: 0px;
+     }
+
+     .latest-info {
+         padding: 10px;
+     }
+
+     .latest-info p {
+         color: #424242;
+         font-family: Poppins;
+         font-size: 12px;
+     }
+
+     .latest h1 {
+         font-size: 37px;
+     }
+
+     .latest-info h1 {
+         font-size: 14px;
+     }
+
+
+     .latest-images.second .latest-info-div {
+         top: 60%;
+     }
+
+     .latest-images.second .latest-info-div:hover {
+         top: 40%
+     }
+
+
+
+     .latest-info p {
+         color: #424242;
+         font-family: Poppins;
+         font-size: 12px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 30px;
+     }
+
+     .eighth-sec,
+     .seventh-sec {
+         padding-bottom: 50px;
+     }
+
+     .podcast-info.social {
+         padding-right: 0px;
+     }
+
+     .podcast-info.social,
+     .podcast-info.second {
+         margin-left: 50px;
+         margin-top: 100px
+     }
+
+     .podcast-img {
+         margin-top: 100px;
+     }
+
+
+     .tiktok-aud-info h1 {
+
+         font-size: 31px;
+
+     }
+
+     .row.stats-row:before {
+         content: '';
+         display: inline-block;
+         height: 30%;
+         width: 40%;
+         background: url(./images/cricle.png);
+     }
+
+     .circle-st {
+         display: none;
+     }
+
+     .row.stats-row:before {
+         left: 44px;
+         background-repeat: no-repeat;
+         top: -102px;
+         position: absolute;
+         content: '';
+         height: 27%;
+         /* display: inline-block; */
+         /* height: 178px; */
+         width: 36%;
+         background-image: url(./images/cricle.png);
+         background-size: cover;
+     }
+
+     .audience h1 {
+         text-align: center;
+     }
+
+     .about-me-img img {
+         width: 70%;
+         height: 100%;
+         object-fit: cover;
+     }
+
+     .about-me-img {
+         /* width: 50%; */
+         display: flex;
+         justify-content: center;
+         margin: 40px 0px;
+     }
+
+     .blogs {
+         border: solid 1px gray;
+         margin: 20px 0px;
+     }
+
+     .buttons {
+         width: 100%;
+     }
+
+     .buttons li {
+         width: 50%;
+     }
+
+     .email-bar {
+         width: 100%;
+     }
+
+     .circle {
+         display: none;
+     }
+
+     .third-sec {
+         padding-top: 0px;
+         padding-bottom: 0px;
+     }
+
+     .row.blogss:before {
+         top: -117px;
+         display: inline-block;
+         content: '';
+         background: url(./images/cricle.png);
+         height: 18%;
+         width: 38%;
+         background-size: cover;
+         background-repeat: no-repeat;
+         position: absolute;
+         right: 28px;
+     }
+
+     .row.stats-row .blogs {
+         border-bottom: solid 1px gray;
+         background: white;
+     }
+
+     .blogs ul li p {
+         font-size: 17px;
+     }
+
+     .tiktokplus-img li {
+         width: 50%;
+     }
+
+     button.contact-btn {
+
+         margin: 0px auto;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+
+
+     }
+
+ }
+
+
+ @media (max-width:600px) {
+     .logo h1 {
+         font-size: 30px;
+     }
+
+     .header-items .menu i {
+         font-size: 30px
+     }
+     .top-nav-items ul li a{
+        font-size: 16px;
+     }
+     .top-nav-footer i{
+        font-size: 19px;
+     }
+     .first-sec {
+         padding-top: 0px;
+     }
+
+     .main-heading h1 span,
+     .main-heading h1 {
+         font-size: 30px;
+         margin: 30px 0px;
+         line-height: 50px;
+     }
+
+     .main-heading p {
+         font-size: 16px;
+         text-align: justify;
+     }
+
+     .lorem-headings h1 {
+         line-height: 33px;
+         font-size: 20px;
+     }
+
+     .blogs {
+         padding-bottom: 20px;
+         margin: 2% 6%;
+     }
+
+     .blogs ul li p {
+         font-size: 13px;
+     }
+
+     .blogs ul li h1 {
+         font-size: 34px;
+     }
+
+     .blogs ul li h3 {
+         font-size: 19px;
+     }
+
+
+     .row.blogss:before {
+         top: -96px;
+         height: 13%;
+         width: 33%;
+         right: 37px;
+     }
+
+
+     .about-me h1 {
+         font-size: 25px;
+     }
+
+     button.contact-btn {
+         margin: 0px auto;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+     }
+
+
+     .dummy-img img {
+         width: 85%;
+         height: 100%;
+     }
+
+
+     .dummy-img {
+         display: flex;
+         justify-content: center;
+         margin: 50px 0px 0px;
+
+     }
+
+
+     .about-me-img img {
+         width: 90%;
+
+     }
+
+     .stats-heading h1 {
+         font-size: 25px;
+     }
+
+
+
+     .stats-heading p {
+
+         font-size: 17px;
+
+         padding: 0px 10px;
+     }
+
+
+     .contact-btn {
+         font-size: 15px;
+         margin-top: 40px;
+         width: 32%;
+         height: 29px;
+     }
+
+     .row.stats-row:before {
+         left: 44px;
+         top: -67px;
+         content: '';
+         height: 12%;
+         width: 44%;
+
+     }
+
+     .audience span.main,
+     .audience span,
+     .audience h1 {
+         font-size: 25px;
+     }
+
+
+     .audience p.main {
+         font-size: 16px;
+     }
+
+
+     .colab-img {
+
+         border-radius: 50px 0px 50px 0px;
+     }
+
+     .colab-img-info h1 {
+         text-align: start;
+         font-size: 20px;
+
+     }
+
+     .colab-img-info p {
+         text-align: start;
+     }
+
+
+     .post-rate p,
+     .followers p {
+         font-size: 15px;
+     }
+
+     .video {
+         padding: 20px;
+     }
+
+     .business h1 {
+         font-size: 25px;
+     }
+
+     .sixth-sec {
+         padding-bottom: 100px
+     }
+
+     .podcast-info.social,
+     .podcast-info.second {
+         margin-left: 0px;
+         margin-top: 29px;
+     }
+
+     .podcast-info.social p,
+     .podcast-info.second p {
+         text-align: justify;
+     }
+
+     .podcast-img {
+         border-radius: 0px 0px 100px 0px;
+     }
+
+     .latest h1 {
+         font-size: 25px;
+     }
+
+
+     .latest-img {
+         border-radius: 100px;
+         height: 300px;
+     }
+
+
+     .footer-items-right h1 {
+         font-size: 25px;
+     }
+
+     .footer-items-right p {
+         text-align: justify;
+         padding: 0px 14px;
+     }
+
+
+     .end-btns ul {
+
+         flex-direction: column;
+
+     }
+
+     .form-div {
+         margin: 0px 0px 50px;
+     }
+
+     input[type="text"],
+     .email-input {
+         border-radius: 3px;
+         background: #E6E6E6;
+         width: 90%;
+         height: 52px;
+         padding-left: 10px;
+     }
+
+
+
+
+ }
+
+
+ @media (max-width:1200px) {
+
+     .main-heading h1 span,
+     .main-heading h1 {
+         font-size: 46px;
+         line-height: 60px;
+     }
+
+     .dummy-img img {
+         object-fit: cover;
+         width: 100%;
+         /* height: 600px; */
+     }
+
+     .lorem-headings h1 {
+         font-size: 25px;
+         line-height: 40px;
+     }
+
+     .second-sec {
+         padding-top: 0px;
+         margin-top: 0px;
+     }
+
+     .about-me-img img {
+         width: 100%;
+         object-fit: cover;
+         /* height: 800px; */
+     }
+
+     .latest-images.second {
+         margin-left: 0px;
+     }
+
+     .podcast-img {
+         height: 353px;
+     }
+
+     .main-heading {
+        padding-top:10px
+     }
+ }
